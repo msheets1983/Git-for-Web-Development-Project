@@ -65,7 +65,7 @@ Class can be used on multiple elements as an ID can only be used once.
 .human p
 
     22. What is a parent child selector? When would this be useful? 
-
+Seletor selects all elements that are a direct child of the specified element.
 
     23. How do you select all links within a div with the class of sidebar? 
 #sidebar a:link {color: }
@@ -83,7 +83,7 @@ letter-spacing property
 text-transform property
 
     28. How do I add a 1px border around my div that is dotted and black?
-
+border:1px dotted black;
 
     29. How do I select everything on the page? 
 * selector
